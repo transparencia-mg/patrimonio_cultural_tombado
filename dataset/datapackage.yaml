@@ -23,7 +23,9 @@ name: bens-tombados
 owner_org: instituto-estadual-do-patrimonio-historico-e-artistico-de-minas-gerais-iepha
 profile: data-package
 resources:
-  - description: Bens Tombados - preparação em homologa para publicação com template.
+  - description: Listagem dos bens culturais materiais que, em função de seu valor histórico, artístico, estético,
+  afetivo, simbólico, dentre outros, receberam proteção pelo poder público estadual
+  pelo instrumento do tombamento.
     dialect:
       delimiter: ;
       doubleQuote: true
