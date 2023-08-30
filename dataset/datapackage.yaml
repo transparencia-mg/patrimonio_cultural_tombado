@@ -23,9 +23,9 @@ name: bens-tombados
 owner_org: instituto-estadual-do-patrimonio-historico-e-artistico-de-minas-gerais-iepha
 profile: data-package
 resources:
-  - description: Listagem dos bens culturais materiais que, em função de seu valor histórico, artístico, estético,
-  afetivo, simbólico, dentre outros, receberam proteção pelo poder público estadual
-  pelo instrumento do tombamento.
+  - description: Listagem dos bens culturais materiais que receberam proteção pelo poder público estadual
+  pelo instrumento do tombamento, em função de seu valor histórico, artístico, estético,
+  afetivo, simbólico, dentre outros.
     dialect:
       delimiter: ;
       doubleQuote: true
@@ -61,7 +61,7 @@ resources:
               - BM
               - CH
               - CP
-          description: Designaçaõ das categorias como BI - bem imóvel; BM - bem móvel;
+          description: Designação das categorias como BI - bem imóvel; BM - bem móvel;
             CH - centro histórico;  CP - conjunto paisagístico
           format: default
           name: categoria
