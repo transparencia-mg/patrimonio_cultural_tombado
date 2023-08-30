@@ -108,7 +108,7 @@ resources:
             as coisas de interesse histórico, as obras de arte históricas e os documentos
             paleográficos ou bibliográficos. Livro IV = Livro do Tombo das Artes Aplicadas,
             as obras, nacionais ou estrangeiras, que se incluam na categoria das artes
-            aplicadas.'
+            aplicadas. 0 = Constituição Estadual de 1989 - ADCT art. 84'
           format: default
           name: livro_de_tombo
           title: Livro de Tombo
