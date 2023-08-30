@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.04,
+  "time": 0.032,
   "errors": [],
   "tasks": [
     {
@@ -101,7 +101,7 @@
                   "I, II, III, IV"
                 ]
               },
-              "description": "Livro(s) do tombo em que o bem tombado está inscrito. As desingnações estão definidas pelo Decreto Estadual nº 14.260/1972: Livro I = Livro de Tombo Arqueológico, Etnográfico e Paisagístico, as coisas pertinentes à categoria de artes ou achados arqueológicos, etnográficos e ameríndios, arte popular, grutas ou jazidas pré-históricas, paisagens naturais e coisas congêneres. Livro II = Livro do Tombo de Belas Artes, as coisas de arte erudita, nacional ou estrangeira. Livro III = Livro do Tombo Histórico, as coisas de interesse histórico, as obras de arte históricas e os documentos paleográficos ou bibliográficos. Livro IV = Livro do Tombo das Artes Aplicadas, as obras, nacionais ou estrangeiras, que se incluam na categoria das artes aplicadas.",
+              "description": "Livro(s) do tombo em que o bem tombado está inscrito. As desingnações estão definidas pelo Decreto Estadual nº 14.260/1972: Livro I = Livro de Tombo Arqueológico, Etnográfico e Paisagístico, as coisas pertinentes à categoria de artes ou achados arqueológicos, etnográficos e ameríndios, arte popular, grutas ou jazidas pré-históricas, paisagens naturais e coisas congêneres. Livro II = Livro do Tombo de Belas Artes, as coisas de arte erudita, nacional ou estrangeira. Livro III = Livro do Tombo Histórico, as coisas de interesse histórico, as obras de arte históricas e os documentos paleográficos ou bibliográficos. Livro IV = Livro do Tombo das Artes Aplicadas, as obras, nacionais ou estrangeiras, que se incluam na categoria das artes aplicadas. 0 = Constituição Estadual de 1989 - ADCT art. 84",
               "format": "default",
               "name": "livro_de_tombo",
               "title": "Livro de Tombo",
@@ -121,7 +121,7 @@
           "rows": 151
         }
       },
-      "time": 0.024,
+      "time": 0.02,
       "scope": [
         "hash-count-error",
         "byte-count-error",
