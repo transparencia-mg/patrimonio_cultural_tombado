@@ -118,6 +118,6 @@ resources:
       missingValues:
         - '0'
     scheme: file
-    title: Bens Tombados
-title: Bens Tombados
+    title: Patrimônio Cultural Tombado
+title: Patrimônio Cultural Tombado
 version: 0.1
