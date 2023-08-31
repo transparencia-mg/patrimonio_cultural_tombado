@@ -15,6 +15,6 @@ Todas as contribuições são bem vindas. Alguns exemplos são:
 
 Além disso, fique a vontade para utilizar os demais canais oficiais de atendimento do Poder Executivo Estadual:
 
-- [Fale Conosco](https://www.iepha.mg.gov.br/fale-conosco): Dúvidas
+- [Fale Conosco](http://www.iepha.mg.gov.br/index.php/fale-com-o-iepha/atendimento): Dúvidas
 - [Manifestações de Ouvidoria](http://www.ouvidoriageral.mg.gov.br/): Denúncia, Reclamação, Crítica, Elogio ou Sugestões
 - [Pedido de Acesso à Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis
