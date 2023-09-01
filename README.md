@@ -11,6 +11,7 @@ Para esclarecimento sobre o fluxo completo de abertura de dados, favor consultar
 - Conversão automatizada de base de dados em Excel para formato tabular aberto (csv), caso necessário.
 - Validação automatizada dos metadados e dos dados do conjunto, com demonstração de erros de validação, caso haja.
 - Publicação automatizada (criação e atualização em instâncias do CKAN) do conjunto criado, documentado e validado.
+- Arquivo de configuração `scripts/config.py` para cadastro de abas a serem convertidas para `csv` dentro de arquivos Excel.
 
 ### Como participar
 
