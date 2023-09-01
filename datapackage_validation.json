@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.032,
+  "time": 0.041,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Bens Tombados - preparação em homologa para publicação com template.",
+        "description": "Listagem dos bens culturais materiais que receberam proteção pelo poder público estadual pelo instrumento do tombamento, em função de seu valor histórico, artístico, estético, afetivo, simbólico, dentre outros.",
         "dialect": {
           "delimiter": ";",
           "doubleQuote": true,
@@ -51,7 +51,7 @@
                   "CP"
                 ]
               },
-              "description": "Designaçaõ das categorias como BI - bem imóvel; BM - bem móvel; CH - centro histórico;  CP - conjunto paisagístico",
+              "description": "Designação das categorias como BI - bem imóvel; BM - bem móvel; CH - centro histórico;  CP - conjunto paisagístico",
               "format": "default",
               "name": "categoria",
               "title": "Categoria",
@@ -113,7 +113,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Bens Tombados",
+        "title": "Patrimônio Cultural Tombado",
         "stats": {
           "hash": "9544a808569697c8ecd70ed1e9a8230a",
           "bytes": 34023,
@@ -121,7 +121,7 @@
           "rows": 151
         }
       },
-      "time": 0.019,
+      "time": 0.025,
       "scope": [
         "hash-count-error",
         "byte-count-error",
