@@ -3,4 +3,4 @@ Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.
 
 ### [1.0.0] - 2023-08-30
 
-- Versão inicial publicada
+- Versão inicial publicada.
