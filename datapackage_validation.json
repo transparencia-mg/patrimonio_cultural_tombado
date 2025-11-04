@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.029,
+  "time": 0.026,
   "errors": [],
   "tasks": [
     {
@@ -115,13 +115,13 @@
         "scheme": "file",
         "title": "Patrimônio Cultural Tombado",
         "stats": {
-          "hash": "9544a808569697c8ecd70ed1e9a8230a",
-          "bytes": 34023,
+          "hash": "f919db62e0933e3f7c6d57b385bee18e",
+          "bytes": 34454,
           "fields": 9,
-          "rows": 151
+          "rows": 153
         }
       },
-      "time": 0.018,
+      "time": 0.016,
       "scope": [
         "hash-count-error",
         "byte-count-error",
